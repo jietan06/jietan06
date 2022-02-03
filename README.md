@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jietan
-- 👀 I’m interested in Food, Traval, and Golf
+- 👀 I’m interested in Food, Travel, and Golf
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
